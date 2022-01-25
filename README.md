@@ -1,5 +1,6 @@
 # PROGRAMMING-_IN-PYTHON_CE259
 **practical2**
+
 Dictionary
 
 a. Write a Python script to check whether a given key already exists in a
@@ -25,18 +26,6 @@ dic3={5:50,6:60}
 
 Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
-Tuple
-
-a. Write a Python program to create a tuple with different data types.
-
-b. Write a Python program to create a tuple with numbers and print one item.
-
-c. Write a Python program to add an item in a tuple.
-
-d. Write a Python program to convert a tuple to a string.
-
-e. Write a Python program to find the length of a tuple.
-
 Set
 
 a. Write a Python program to add member(s) in a set and clear a set
@@ -52,6 +41,19 @@ d. Write a Python program to find maximum and the minimum value in a set.
 
 4. Write a Python program to find the most common elements and their counts
 from list, tuple, dictionary.
+
+
+Tuple
+
+a. Write a Python program to create a tuple with different data types.
+
+b. Write a Python program to create a tuple with numbers and print one item.
+
+c. Write a Python program to add an item in a tuple.
+
+d. Write a Python program to convert a tuple to a string.
+
+e. Write a Python program to find the length of a tuple.
 
 
 **practical 3.Find Captain Room Number**
