@@ -1,15 +1,23 @@
 # PROGRAMMING-_IN-PYTHON_CE259
 
 Dictionary
+
 a. Write a Python script to check whether a given key already exists in a
 dictionary.
+
 b. Write a Python script to merge two Python dictionaries.
+
 c. Write a Python program to sum all the items in a dictionary.
+
 d. Write a Python script to add a key to a dictionary.
+
 Sample Dictionary : {0: 10, 1: 20}
+
 Expected Result : {0: 10, 1: 20, 2: 30}
+
 e. Write a Python script to concatenate the following dictionaries to create a
 new one.
+
 Sample Dictionary :
 dic1={1:10, 2:20}
 dic2={3:30, 4:40}
