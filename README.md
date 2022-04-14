@@ -127,3 +127,6 @@ Consider an example of declaring the examination result. Design three classes: S
 The Student class has data members such as those representing rollNumber, Name, etc. Create the class Exam by inheriting Student class. 
 The Exam class adds fields representing the marks scored in six subjects. Derive Result from the Exam class, 
 and it has its own fields such as total_marks. Write an interactive program to model this relationship.
+
+**practical 10**
+Generate PDF file of your 3rd Semester Mark-sheet
