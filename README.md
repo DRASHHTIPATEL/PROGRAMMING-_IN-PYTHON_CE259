@@ -117,3 +117,7 @@ Also, abccab, rotor and xyzxy are a few examples of lapindromes.
 Note that abbaab is NOT a lapindrome.
 The two halves contain the same characters but their frequencies do not match. Your task is simple. 
 Given a string, you need to tell if it is a lapindrome
+
+
+**practical 8**
+Write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method.
