@@ -1,0 +1,18 @@
+#taking user input
+N = int(input())
+#creating empty dictionary
+COUNT_DICT = {} 
+#creating list 
+WL = [] 
+for i in range(N):
+    M = input() WL.append(M)
+#check if the word is there is dictionary and increment
+#usinh if else statement 
+if M in COUNT_DICT:
+   COUNT_DICT[M] += 1 
+else: 
+   COUNT_DICT[M] = 1 
+#printing the length of words present in dictionary
+print(len(COUNT_DICT)) 
+#print statement
+print(' '.join([str(COUNT_DICT[M]) for M in COUNT_DICT]))
