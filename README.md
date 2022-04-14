@@ -121,3 +121,9 @@ Given a string, you need to tell if it is a lapindrome
 
 **practical 8**
 Write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method.
+
+**practical 9**
+Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. 
+The Student class has data members such as those representing rollNumber, Name, etc. Create the class Exam by inheriting Student class. 
+The Exam class adds fields representing the marks scored in six subjects. Derive Result from the Exam class, 
+and it has its own fields such as total_marks. Write an interactive program to model this relationship.
